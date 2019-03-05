@@ -34,7 +34,7 @@ the Arduino Uno board to ensure good connectivity*
 applications such as Blynk or ThingView*
 
 A more detailed description of these elements above from the following document
-[*`Architecture Plateforme IoT`*](Architecture/Architecture_de_l'environnement_IoT.pdf)
+[*`Architecture Plateforme IoT`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Architecture/Architecture_de_l'environnement_IoT.pdf)
 
 
 In order to better perform all the operations we took care to develop a *flowchart of the algorithm of our environment* 
@@ -68,7 +68,7 @@ Its implementation available from the document [*`HTTP Connection Program`*](Cod
 temperature sent by the Arduino boards and store 
 them within two text files data.txt and data2.txt.
 
-Implementation : [*`Temperature Data Program`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Codes/Temperature_codes.md.md)
+Implementation : [*`Temperature Data Program`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Codes/Temperature_codes.md)
 
 
 * ***Things.py Program*** : This program recovers the data Text files then calculates the average value of the results 
@@ -88,7 +88,7 @@ the thresholds.
  * ***Dispo.py Program*** : The purpose of this program is to check the availability of the service. It must send SMS 
  messages to indicate if one of the Arduino boards is no longer sending data.
  
- We find their implementation thanks to the document [*`Msg_and_Dispo.py Program`*](Msg_and_Dispo.py)
+ We find their implementation thanks to the document [*`Msg_and_Dispo.py Program`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Codes/Msg_and_Dispo.py)
  
 ## Contribution 
 You can contribute to the project in many ways, e.g. testing functionality, sending in bug reports or creating pull requests directly via GitHub. Any help is always very welcome!
