@@ -76,7 +76,7 @@ obtained and sends it to the ThingSpeak cloud as well as to the central node.
 This file during its execution also makes two other programs (msg.py and dispo.py) 
 that we will describe later.
 
-Its implementation available from the document [*`Things.Py Program`*](Things.py)
+Its implementation available from the document [*`Things.Py Program`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Codes/Things.py)
 
 
 * ***Mgs.pyProgram*** : This program is used to send alert messages
