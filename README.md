@@ -14,7 +14,7 @@ The architecture of our IoT environment will be a hybrid
 architecture in order to ensure high availability of the service 
 and will present itself following way:
 
-![*Architecture Plateforme IoT*](Architecture/Images/architecture_environnement.PNG "Architecture Plateforme IoT")
+![*Architecture Plateforme IoT*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Architecture/Images/architecture_environnement.PNG "Architecture Plateforme IoT")
 
 It will be composed of: 
 1. ***Hardware Part*** : We'll find the following components
