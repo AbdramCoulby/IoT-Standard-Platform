@@ -14,7 +14,7 @@ The architecture of our IoT environment will be a hybrid
 architecture in order to ensure high availability of the service 
 and will present itself following way:
 
-![*Architecture Plateforme IoT*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Architecture/Images/architecture_environnement.PNG "Architecture Plateforme IoT")
+![*Architecture Plateforme IoT*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Architecture/Images/architecture_iot.png "Architecture Plateforme IoT")
 
 It will be composed of: 
 1. ***Hardware Part*** : We'll find the following components
@@ -40,7 +40,7 @@ A more detailed description of these elements above from the following document
 In order to better perform all the operations we took care to develop a *flowchart of the algorithm of our environment* 
 so to be able to better describe its functionalities.
 
-![*Organigramme de l'algorithme*](Architecture/Images/organigramme_algorithme_environnement.PNG)
+![*Organigramme de l'algorithme*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Architecture/Images/algorithme_iot.png)
 
 ## Code Section
 
@@ -57,7 +57,7 @@ We'll find its implementation thanks to the document [*`Arduino Uno Card Program
 * ***Arduino MKR1000 Card Program*** : This Arduino board realizes
 the same function as the Arduino UNO board. In addition it should be noted that it already has a built-in Wifi module. 
 
-We'll find its implementation thanks to the document [*`Arduino MKR1000 Card Program`*](Arduino_MKR1000_Program.md)
+We'll find its implementation thanks to the document [*`Arduino MKR1000 Card Program`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Codes/Arduino_MKR1000_Program.md)
 
 * ***HTTP connection program*** : This program will have the role of Achieving an HTTP connection from the arduino MKR1000 
 to the ThingSpeak platform as well as the central node (Raspberry Pi).
