@@ -8,7 +8,6 @@ import urllib
 import math
 import time
 
-
 # ************************ Définition Fonction Thermometer ****************************
 def thermometer():
     with open(’data.txt’) as f:  # Opening the data file to recover the temperature
