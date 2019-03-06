@@ -33,8 +33,8 @@ the Arduino Uno board to ensure good connectivity*
 *  *You can also view the results obtained from mobile 
 applications such as Blynk or ThingView*
 
-A more detailed description of these elements above from the following document
-[*`Architecture Plateforme IoT`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Architecture/Architecture_de_l'environnement_IoT.pdf)
+A more detailed description of these elements above from the following documentation 
+[*`Architecture Plateforme IoT`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/wiki)
 
 
 In order to better perform all the operations we took care to develop a *flowchart of the algorithm of our environment* 
